@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><AlertHub-IT-FederationRegistry-Entity xmlns:ahit="https://hub.it-alert.it/federation-registry#" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" entityCode="PCM-DPC" id="b37b2476-8e54-4707-9791-91820c59d531" releaseDate="2023-06-30" version="1.0" xsi:schemaLocation="https://hub.it-alert.it/federation-registry/IT-alert-FederationRegistry-Entity.xsd"><ds:Signature>
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+<ds:Reference URI="">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+<ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>ecZ2T9IpeC85whXF7cfxpOxkilEEarO16q8j47RaVO0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>
+M4Br08jAIP1b6vQRA/umgfdW7RdPlUGChB0+Ze0zID3HCvw4iln94AF3r5HrbpmS4oluKv9m+qpo
+739HAEcw2aK/p+vzj9JuqGvYSx5rxW5ymIGY0P6I0bmIHXZz+3AOepbx1pHKGum4NV+liOardrWr
+rwwMnGf9WlvIUB5AwasxSgUgD/S+3QgC07f2xBwwpDwTOuG6q9C81CgwafInp9Zrtg+N5UU7ufPZ
+zSXjStmY7o075P/c0EX2j7hMlhq4AfughDsgY7to9wTI8s+dsw7KZniVz1lEMMmggQycfHlx7OGL
+2HM2+9pYDKEDCWjrwom/ingvv1EYk4Sq2NGetQ==
+</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+sPyIYeF759U1fq8dvPD3pJh+CS5BEr8EtURr1q8LjdG3HA83ISP2+Y9KTvoBzB21jvDlU2XLmnvI
+eiwC1g3lb5SM2FAFnsDJRf3hjQcdBC58NenUTxh36igjJrIxPF+53ZdpI/m7ct9xq97KLhkIiFLV
+wkF0v/f4E4WSHGqHFry6/kiKl5yawqHCa+S0xMUfdZMOeakye/OyIX2/opJSBaTUXwzQ1IwMjXyI
+Gi12ciVLG2hbMSSSm3Llhbm88Zf/CrUtYUquVVi/Fmkh6ayNPxJeeyTXjWDmh6RdrjpmjhC1nduM
+0V03KCyf5EE4FJtO/sVLk8VxH2smvjCv+B67jQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+<ds:X509Data>
+<ds:X509Certificate>
+MIIEXzCCA0egAwIBAgIUJt1R5mbwAxVppwigLWhSMVHfT90wDQYJKoZIhvcNAQELBQAwgb4xCzAJ
+BgNVBAYTAklUMQ0wCwYDVQQIDARSb21hMQ0wCwYDVQQHDARSb21hMTMwMQYDVQQKDCpQQ00gLSBE
+aXBhcnRpbWVudG8gZGVsbGEgUHJvdGV6aW9uZSBDaXZpbGUxETAPBgNVBAsMCElULWFsZXJ0MRww
+GgYDVQQDDBNwcm90ZXppb25lY2l2aWxlLml0MSswKQYJKoZIhvcNAQkBFhxpdC1hbGVydEBwcm90
+ZXppb25lY2l2aWxlLml0MB4XDTIzMDYyOTIxNTE1MVoXDTI0MDYyODIxNTE1MVowgb4xCzAJBgNV
+BAYTAklUMQ0wCwYDVQQIDARSb21hMQ0wCwYDVQQHDARSb21hMTMwMQYDVQQKDCpQQ00gLSBEaXBh
+cnRpbWVudG8gZGVsbGEgUHJvdGV6aW9uZSBDaXZpbGUxETAPBgNVBAsMCElULWFsZXJ0MRwwGgYD
+VQQDDBNwcm90ZXppb25lY2l2aWxlLml0MSswKQYJKoZIhvcNAQkBFhxpdC1hbGVydEBwcm90ZXpp
+b25lY2l2aWxlLml0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsPyIYeF759U1fq8d
+vPD3pJh+CS5BEr8EtURr1q8LjdG3HA83ISP2+Y9KTvoBzB21jvDlU2XLmnvIeiwC1g3lb5SM2FAF
+nsDJRf3hjQcdBC58NenUTxh36igjJrIxPF+53ZdpI/m7ct9xq97KLhkIiFLVwkF0v/f4E4WSHGqH
+Fry6/kiKl5yawqHCa+S0xMUfdZMOeakye/OyIX2/opJSBaTUXwzQ1IwMjXyIGi12ciVLG2hbMSSS
+m3Llhbm88Zf/CrUtYUquVVi/Fmkh6ayNPxJeeyTXjWDmh6RdrjpmjhC1nduM0V03KCyf5EE4FJtO
+/sVLk8VxH2smvjCv+B67jQIDAQABo1MwUTAdBgNVHQ4EFgQUln7zhZWqTiJcrjZYCPs7Wk5wqKIw
+HwYDVR0jBBgwFoAUln7zhZWqTiJcrjZYCPs7Wk5wqKIwDwYDVR0TAQH/BAUwAwEB/zANBgkqhkiG
+9w0BAQsFAAOCAQEAmCpYZWKM2k2ZjWjfWuDd/l7V1HnorSCZ2PeAkOKe1OZqiDJmDg1up+awyJGU
+YXS22XxZ6bkWW300l0E9Lo1F5Tjx/wgcQC5vQN31bSwVkTYrHLJE6B9AAzKSGDUe6prc2AzMt+xU
+e751dQth5n3628Rdh9i5NMxOWmAngsNsoBstWYW6PDccJ9qQixDH/AL61HTs4pg0rdvbuhOdvcmg
+IcL58dl6ixrudSRV5dJMs/5hD9z6rUcjg6UXjezI5dv1nE0HDnxNgbGkQDCQNIBJXncuN5jRXibx
+r61ksjyHXW/Y3Lndrv7PP62Rs859KIy36Qs9SLp8F+9XnZPyo79oEw==
+</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+</ds:Signature>
+    <ahit:appData appCode="dpc-alert-manager">
+        <ahit:alertCategories>
+            <ahit:alertCategory>Other</ahit:alertCategory>
+        </ahit:alertCategories>
+        <ahit:signingKeys>
+            <ahit:signingKey>
+                <ds:KeyInfo>
+                    <ds:X509Data>
+                        <ds:X509Certificate>
+                            MIIEXzCCA0egAwIBAgIUJt1R5mbwAxVppwigLWhSMVHfT90wDQYJKoZIhvcNAQEL
+                            BQAwgb4xCzAJBgNVBAYTAklUMQ0wCwYDVQQIDARSb21hMQ0wCwYDVQQHDARSb21h
+                            MTMwMQYDVQQKDCpQQ00gLSBEaXBhcnRpbWVudG8gZGVsbGEgUHJvdGV6aW9uZSBD
+                            aXZpbGUxETAPBgNVBAsMCElULWFsZXJ0MRwwGgYDVQQDDBNwcm90ZXppb25lY2l2
+                            aWxlLml0MSswKQYJKoZIhvcNAQkBFhxpdC1hbGVydEBwcm90ZXppb25lY2l2aWxl
+                            Lml0MB4XDTIzMDYyOTIxNTE1MVoXDTI0MDYyODIxNTE1MVowgb4xCzAJBgNVBAYT
+                            AklUMQ0wCwYDVQQIDARSb21hMQ0wCwYDVQQHDARSb21hMTMwMQYDVQQKDCpQQ00g
+                            LSBEaXBhcnRpbWVudG8gZGVsbGEgUHJvdGV6aW9uZSBDaXZpbGUxETAPBgNVBAsM
+                            CElULWFsZXJ0MRwwGgYDVQQDDBNwcm90ZXppb25lY2l2aWxlLml0MSswKQYJKoZI
+                            hvcNAQkBFhxpdC1hbGVydEBwcm90ZXppb25lY2l2aWxlLml0MIIBIjANBgkqhkiG
+                            9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsPyIYeF759U1fq8dvPD3pJh+CS5BEr8EtURr
+                            1q8LjdG3HA83ISP2+Y9KTvoBzB21jvDlU2XLmnvIeiwC1g3lb5SM2FAFnsDJRf3h
+                            jQcdBC58NenUTxh36igjJrIxPF+53ZdpI/m7ct9xq97KLhkIiFLVwkF0v/f4E4WS
+                            HGqHFry6/kiKl5yawqHCa+S0xMUfdZMOeakye/OyIX2/opJSBaTUXwzQ1IwMjXyI
+                            Gi12ciVLG2hbMSSSm3Llhbm88Zf/CrUtYUquVVi/Fmkh6ayNPxJeeyTXjWDmh6Rd
+                            rjpmjhC1nduM0V03KCyf5EE4FJtO/sVLk8VxH2smvjCv+B67jQIDAQABo1MwUTAd
+                            BgNVHQ4EFgQUln7zhZWqTiJcrjZYCPs7Wk5wqKIwHwYDVR0jBBgwFoAUln7zhZWq
+                            TiJcrjZYCPs7Wk5wqKIwDwYDVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsFAAOC
+                            AQEAmCpYZWKM2k2ZjWjfWuDd/l7V1HnorSCZ2PeAkOKe1OZqiDJmDg1up+awyJGU
+                            YXS22XxZ6bkWW300l0E9Lo1F5Tjx/wgcQC5vQN31bSwVkTYrHLJE6B9AAzKSGDUe
+                            6prc2AzMt+xUe751dQth5n3628Rdh9i5NMxOWmAngsNsoBstWYW6PDccJ9qQixDH
+                            /AL61HTs4pg0rdvbuhOdvcmgIcL58dl6ixrudSRV5dJMs/5hD9z6rUcjg6UXjezI
+                            5dv1nE0HDnxNgbGkQDCQNIBJXncuN5jRXibxr61ksjyHXW/Y3Lndrv7PP62Rs859
+                            KIy36Qs9SLp8F+9XnZPyo79oEw==
+                        </ds:X509Certificate>
+                    </ds:X509Data>
+                </ds:KeyInfo>
+            </ahit:signingKey>
+        </ahit:signingKeys>
+    </ahit:appData>
+</AlertHub-IT-FederationRegistry-Entity>

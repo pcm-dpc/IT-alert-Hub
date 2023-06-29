@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><AlertHub-IT-FederationRegistry xmlns:ahit="https://hub.it-alert.it/federation-registry#" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="a484ff97-46f8-41a6-a953-710ffe485198" releaseDate="2023-06-30" version="1.0" xsi:schemaLocation="https://hub.it-alert.it/federation-registry/IT-alert-FederationRegistry.xsd"><ds:Signature>
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+<ds:Reference URI="">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+<ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>gBVJb7XK0Jm4WiaSoQw1hONU4UCxcFE2BOqWrKyeUjE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>
+AQs/F6IGRhZ7nZEI+Z1yQtxd6n5V5ELGw48v/cgHbGmONh9lJHYsC7XlacS+tqCSuQ9GKvxtVoQZ
+dtVBp44Oi3VwGux7E1ucKmMdLFytB1E8XHYZSjBTvP3uIwMI/f9xNcv0gnMPZMqh6qx/0CnqjgZE
+mBcj1K47DhvA2A9hoo3rwKXjabcSDbNhJdWyudkZYteDK71az6DmfooWGY9zC94TxzuNgddCIJkP
+9O+xKqWpIVDtvSJYMldH7dB9kwBrTvIBjq1QmSy2I4a6H/iFL2mAdsBV5z/LglRLDQYdnbhBV+gd
+B9nCD5OxbCNqi94URBP6reTGGO9Gex4FJNXNsw==
+</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+sv8M/GaGopvr1U42xkrypRVIX6HlJm0tumdCO3GpYmdSnZkhPDml2bKTEaaHFVG307LDm+mbcsrc
+z7GN/cpFAmkeridvUBjOOOdawjgE4t6Vy67SJo0DW96m1R3tHUdHb9gcypp6cOGMncTcHQNn+aUZ
++UbPIgALvlOGCSqcpYkG1n61Ygvqozjkq6DWk12ZdAttAa8D8WJItnVsTnFAhPgyvmtbE/z1+uO7
+z5F10UaI5aR70hZljRoh6zpbDwjzPjTk1aWfzB2lEydZoJHLGdHZDhiNd5U4KGDK69O66HTfMvAq
+IDcwaOAHhEVqYWEFdS1+xV431LSG3KH58BtJ/Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+<ds:X509Data>
+<ds:X509Certificate>
+MIIEhzCCA2+gAwIBAgIUHqffA/NkGpIJIFjc0kFai758fi4wDQYJKoZIhvcNAQELBQAwgdIxCzAJ
+BgNVBAYTAklUMQ0wCwYDVQQIDARSb21hMQ0wCwYDVQQHDARSb21hMTMwMQYDVQQKDCpQQ00gLSBE
+aXBhcnRpbWVudG8gZGVsbGEgUHJvdGV6aW9uZSBDaXZpbGUxKTAnBgNVBAsMIElULWFsZXJ0IEh1
+YiBGZWRlcmF0aW9uIFJlZ2lzdHJ5MRgwFgYDVQQDDA9odWIuaXQtYWxlcnQuaXQxKzApBgkqhkiG
+9w0BCQEWHGl0LWFsZXJ0QHByb3RlemlvbmVjaXZpbGUuaXQwHhcNMjMwNjI5MjE0ODQzWhcNMjQw
+NjI4MjE0ODQzWjCB0jELMAkGA1UEBhMCSVQxDTALBgNVBAgMBFJvbWExDTALBgNVBAcMBFJvbWEx
+MzAxBgNVBAoMKlBDTSAtIERpcGFydGltZW50byBkZWxsYSBQcm90ZXppb25lIENpdmlsZTEpMCcG
+A1UECwwgSVQtYWxlcnQgSHViIEZlZGVyYXRpb24gUmVnaXN0cnkxGDAWBgNVBAMMD2h1Yi5pdC1h
+bGVydC5pdDErMCkGCSqGSIb3DQEJARYcaXQtYWxlcnRAcHJvdGV6aW9uZWNpdmlsZS5pdDCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALL/DPxmhqKb69VONsZK8qUVSF+h5SZtLbpnQjtx
+qWJnUp2ZITw5pdmykxGmhxVRt9Oyw5vpm3LK3M+xjf3KRQJpHq4nb1AYzjjnWsI4BOLelcuu0iaN
+A1veptUd7R1HR2/YHMqaenDhjJ3E3B0DZ/mlGflGzyIAC75ThgkqnKWJBtZ+tWIL6qM45Kug1pNd
+mXQLbQGvA/FiSLZ1bE5xQIT4Mr5rWxP89frju8+RddFGiOWke9IWZY0aIes6Ww8I8z405NWln8wd
+pRMnWaCRyxnR2Q4YjXeVOChgyuvTuuh03zLwKiA3MGjgB4RFamFhBXUtfsVeN9S0htyh+fAbSf0C
+AwEAAaNTMFEwHQYDVR0OBBYEFNEyZpYC24UBid7Yz3l8Wn6yop2DMB8GA1UdIwQYMBaAFNEyZpYC
+24UBid7Yz3l8Wn6yop2DMA8GA1UdEwEB/wQFMAMBAf8wDQYJKoZIhvcNAQELBQADggEBAIQmVtJT
+6L2qbeZU+nRTt+6H7JBgt4NxN+V6eM7lvS6JIoDfMX3qGZnXL32UpGfJgbtD6c4VAtA+EuxzoI7I
+wT5zmKEcXRLWvm66UgcnqK7tN5o+pArGR8OG0bDaYiqGyYt+NDiExFYQ5FKxu62vmFQc4TJxrBaj
+I2ebxSjy4M0UvyD4F6QRoG49xkiXM1u2HqJdE1oRO1YU4ItC5yuWno/Fcw0Kn31UHK48gZcyDoH4
+G/j+WuiWsupDGoePcR+lnSzssHvCsPcKPXMrAjyz/MLvXAiTF+jsMC/6wP2EmeNbBOtuBx2PWimF
+b1FlVi4fu5EjL3byoT19AM+i5ALoGHc=
+</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+</ds:Signature>
+    <ahit:entities>
+        <ahit:entity entityCode="PCM-DPC">
+            <ahit:organizationData>
+                <ahit:Name xml:lang="it">Dipartimento della Protezione Civile</ahit:Name>
+                <ahit:Name xml:lang="en">Civil Protection Department</ahit:Name>
+                <ahit:ExtendedName xml:lang="it">Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile</ahit:ExtendedName>
+                <ahit:ExtendedName xml:lang="en">Presidency of the Council of Ministers - Civil Protection Department</ahit:ExtendedName>
+                <ahit:Abbreviation xml:lang="it">DPC</ahit:Abbreviation>
+                <ahit:Abbreviation xml:lang="en">DPC</ahit:Abbreviation>
+            </ahit:organizationData>
+            <ahit:organizationMetadata>
+                <ahit:entityMetadata>PCM-DPC-v1.xml</ahit:entityMetadata>
+                <ahit:version>1.0</ahit:version>
+                <ahit:releaseData>2023-06-30</ahit:releaseData>
+                <ahit:status>active</ahit:status>
+            </ahit:organizationMetadata>
+        </ahit:entity>
+    </ahit:entities>
+</AlertHub-IT-FederationRegistry>
