@@ -2,7 +2,7 @@
 <alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
     <identifier>acfb45c4-ceb8-4b93-8af0-94901d61c4d1</identifier>
     <sender>PCM-DPC</sender>
-    <sent>2023-07-05T12:02:00+01:00</sent>
+    <sent>2024-01-25T12:02:00+01:00</sent>
     <status>Exercise</status>
     <msgType>Alert</msgType>
     <source>IT-alert</source>
@@ -20,9 +20,9 @@
             <valueName>it-alert-public-test</valueName>
             <value>Diga Monguelfo</value>
         </eventCode>
-        <effective>2023-07-05T12:02:00+01:00</effective>
-        <onset>2023-07-05T12:02:00+01:00</onset>
-        <expires>2023-07-05T13:00:00+01:00</expires>
+        <effective>2024-01-25T12:02:00+01:00</effective>
+        <onset>2024-01-25T12:02:00+01:00</onset>
+        <expires>2024-01-25T13:00:00+01:00</expires>
         <senderName>Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile</senderName>
         <headline>TEST Questo è un MESSAGGIO DI TEST IT-alert.</headline>
         <description>TEST Questo è un MESSAGGIO DI TEST IT-alert. Stiamo SIMULANDO il collasso di una diga nella zona in cui ti trovi. Per informazioni www.it-alert.gov.it TEST</description>
@@ -49,9 +49,9 @@
             <valueName>it-alert-public-test</valueName>
             <value>Monguelfo-Staudamm</value>
         </eventCode>
-        <effective>2023-07-05T12:02:00+01:00</effective>
-        <onset>2023-07-05T12:02:00+01:00</onset>
-        <expires>2023-07-05T13:00:00+01:00</expires>
+        <effective>2024-01-25T12:02:00+01:00</effective>
+        <onset>2024-01-25T12:02:00+01:00</onset>
+        <expires>2024-01-25T13:00:00+01:00</expires>
         <senderName>Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile</senderName>
         <headline>TEST Dies ist eine TEST-NACHRICHT von IT-alert.</headline>
         <description>TEST Dies ist eine TEST-NACHRICHT von IT-alert. Wir SIMULIEREN den Bruch eines Staudamms in dem Gebiet, in dem Sie sich befinden. Für Informationen www.it-alert.gov.it TEST/description>
@@ -78,9 +78,9 @@
             <valueName>it-alert-public-test</valueName>
             <value>Monguelfo</value>
         </eventCode>
-        <effective>2023-07-05T12:02:00+01:00</effective>
-        <onset>2023-07-05T12:02:00+01:00</onset>
-        <expires>2023-07-05T13:00:00+01:00</expires>
+        <effective>2024-01-25T12:02:00+01:00</effective>
+        <onset>2024-01-25T12:02:00+01:00</onset>
+        <expires>2024-01-25T13:00:00+01:00</expires>
         <senderName>Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile</senderName>
         <headline>TEST This is a TEST MESSAGE from IT-alert.</headline>
         <description>TEST This is a TEST MESSAGE from IT-alert. We are SIMULATING a dam collapse in your area.  For more information www.it-alert.gov.it/en TEST</description>
