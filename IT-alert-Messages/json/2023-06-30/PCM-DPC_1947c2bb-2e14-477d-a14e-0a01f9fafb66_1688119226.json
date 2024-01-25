@@ -29,13 +29,17 @@
       "senderName" : "Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile",
       "headline" : "IT-alert test pubblico - regione Sardegna - 30/06/2023",
       "description" : "IT-alert test pubblico - regione Sardegna - 30/06/2023. Questo è un MESSAGGIO DI TEST del sistema di allarme pubblico italiano. Una volta operativo ti avviserà in caso di grave emergenza. Per informazioni vai sul sito www.it-alert.it e compila il questionario.",
-      "instruction" : "I-00 Messaggio di test, nessuna azione di autoprotezione necessaria. Compila il questionario all'indirizzo https://forms.office.com/e/uxMiQpPD2P",
-      "web" : "https://www.it-alert.gov.it/en",
+      "instruction" : "I-00 Messaggio di test, nessuna azione di autoprotezione necessaria. Compila il questionario all'indirizzo.",
+      "web" : "https://www.it-alert.gov.it/it",
       "parameter" : [ {
         "valueName" : "it-alert-level",
         "value" : "1"
       } ],
       "resource" : [ {
+        "resourceDesc" : "cap",
+        "mimeType" : "text/xml",
+        "uri" : "https://raw.githubusercontent.com/pcm-dpc/IT-alert-Hub/master/IT-alert-Messages/cap/2023-06-30/PCM-DPC_1947c2bb-2e14-477d-a14e-0a01f9fafb66_1688119226.xmll"
+      },{
         "resourceDesc" : "questionnaire",
         "mimeType" : "text/uri-list",
         "uri" : "https://forms.office.com/e/uxMiQpPD2P"
@@ -73,14 +77,18 @@
       "expires" : "2023-06-30T13:00:26+02:00",
       "senderName" : "Presidency of the Council of Ministers - Civil Protection Department",
       "headline" : "IT-alert public test - Sardinia region - 2023-06-30",
-      "description" : "IT-alert public test - Sardinia region - 30/06/2023. This is a TEST MESSAGE from the Italian public alert system. It will alert you in the event of a major emergency once operational. To get more information go to www.it-alert.it/en and fill out the questionnaire.",
-      "instruction" : "I-00 Test message, no self-protection action needed. Fill out the questionnaire at https://forms.office.com/e/uxMiQpPD2P",
-      "web" : "https://www.it-alert.it",
+      "description" : "IT-alert public test - Sardinia region - 2023-06-30. This is a TEST MESSAGE from the Italian public alert system. It will alert you in the event of a major emergency once operational. To get more information go to www.it-alert.it/en and fill out the questionnaire.",
+      "instruction" : "I-00 Test message, no self-protection action needed. Fill out the questionnaire.",
+      "web" : "https://www.it-alert.it/en",
       "parameter" : [ {
         "valueName" : "it-alert-level",
         "value" : "1"
       } ],
       "resource" : [ {
+        "resourceDesc" : "cap",
+        "mimeType" : "text/xml",
+        "uri" : "https://raw.githubusercontent.com/pcm-dpc/IT-alert-Hub/master/IT-alert-Messages/cap/2023-06-30/PCM-DPC_1947c2bb-2e14-477d-a14e-0a01f9fafb66_1688119226.xmll"
+      },{
         "resourceDesc" : "questionnaire",
         "mimeType" : "text/uri-list",
         "uri" : "https://forms.office.com/e/uxMiQpPD2P"

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><alert xmlns="urn:oasis:names:tc:emergency:cap:1.2"><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><alert xmlns="urn:oasis:names:tc:emergency:cap:1.2"><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
 <ds:SignedInfo>
 <ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
 <ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
@@ -8,15 +8,15 @@
 <ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
 </ds:Transforms>
 <ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
-<ds:DigestValue>cF9m9/c0IFy9Woq2i7+Bii4Q9sTdxOQ9aqp5Lc+cmMQ=</ds:DigestValue>
+<ds:DigestValue>Zpm7Byzy/yMCDucsFX7E+R+DjBb4rEb+KF6u80Ll12k=</ds:DigestValue>
 </ds:Reference>
 </ds:SignedInfo>
 <ds:SignatureValue>
-nX78Kh0VUuHQGnBu2NmwMMg6rRAimCGvpP+hwxdS+iNZCtpndCP0qIirNkrnlz5S5DirfzbqWDth
-obxm1sZGxwbZXmZoYsSH8o8Bf4XJsR3tmBlCuxdme7vSred5ca5wnAtfSlUYIv+Z0jPT8SkcVPcE
-UQFdHShAwm6uXjXzxQZ9Nr7Hq4I63gatXwEW2biolNhFrN+pciRE6h4X+EBKD1EF4s/cqjxBcvRG
-Dqyh8AGMJU/E7v6SqqRzcvYJhXZ2kJjFl02hnW077ePUpisJSZWmjCUZguwKW0K/BzzXIbPnBcmL
-MIzJqD/JNGsS7GnYWr9tZ7IEBvTWg2slUoZG0Q==
+pKtaP2X8PjK30xYx7rF5Zgu+fMoc5b2zXW7KBajxnLy6DHlSGGyhIHR5UOhfb+xxo0Essh/hxgTI
+bWC/orkB3t5583tlRFFT9zICZixM22jyW/w+Cs+6O7Vu/DoON9e/v0QiihL+5EYXAvoCncSUDkC5
+PY5LqHTHgw6u2HhyVpl6lr5WeMqV0ecUysKgLQ9hqlVEudsucZaoaGIZVWvVF2WuKFIRzFEBu9Xe
+HguTN5GhNchPLDxDSDfcFkNbpollAQTXFIUN+0uy41VDsg/+PRcwDRmfoRfoclmaeXFyRnFttd48
+WWNQe8/yFL14de/hDezUCYH0Emdh8HTLcwMtPw==
 </ds:SignatureValue>
 <ds:KeyInfo>
 <ds:KeyValue>
@@ -76,7 +76,7 @@ r61ksjyHXW/Y3Lndrv7PP62Rs859KIy36Qs9SLp8F+9XnZPyo79oEw==
         <certainty>Unknown</certainty>
         <eventCode>
             <valueName>it-alert-public-test</valueName>
-            <value>Sicilia 2023-06-30</value>
+            <value>Sicilia 2023-07-05</value>
         </eventCode>
         <effective>2023-07-05T12:00:33+02:00</effective>
         <onset>2023-07-05T12:00:33+02:00</onset>
@@ -84,8 +84,8 @@ r61ksjyHXW/Y3Lndrv7PP62Rs859KIy36Qs9SLp8F+9XnZPyo79oEw==
         <senderName>Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile</senderName>
         <headline>IT-alert test pubblico - regione Sicilia - 05/07/2023</headline>
         <description>IT-alert test pubblico - regione Sicilia - 05/07/2023. Questo è un MESSAGGIO DI TEST del sistema di allarme pubblico italiano. Una volta operativo ti avviserà in caso di grave emergenza. Per informazioni vai sul sito www.it-alert.it e compila il questionario.</description>
-        <instruction>I-00 Messaggio di test, nessuna azione di autoprotezione necessaria. Compila il questionario all'indirizzo https://forms.office.com/e/uxMiQpPD2P</instruction>
-        <web>https://www.it-alert.gov.it/en</web>
+        <instruction>I-00 Messaggio di test, nessuna azione di autoprotezione necessaria. Compila il questionario.</instruction>
+        <web>https://www.it-alert.gov.it/it</web>
         <parameter>
             <valueName>it-alert-level</valueName>
             <value>1</value>
@@ -169,7 +169,7 @@ r61ksjyHXW/Y3Lndrv7PP62Rs859KIy36Qs9SLp8F+9XnZPyo79oEw==
         <certainty>Unknown</certainty>
         <eventCode>
             <valueName>it-alert-public-test</valueName>
-            <value>Sicily 2023-06-30</value>
+            <value>Sicily 2023-07-05</value>
         </eventCode>
         <effective>2023-06-30T12:00:15+02:00</effective>
         <onset>2023-06-30T12:00:15+02:00</onset>
@@ -177,8 +177,8 @@ r61ksjyHXW/Y3Lndrv7PP62Rs859KIy36Qs9SLp8F+9XnZPyo79oEw==
         <senderName>Presidency of the Council of Ministers - Civil Protection Department</senderName>
         <headline>IT-alert public test - Sicily region - 2023-07-05</headline>
         <description>IT-alert public test - Sicily region - 2023-07-05. This is a TEST MESSAGE from the Italian public alert system. It will alert you in the event of a major emergency once operational. To get more information go to www.it-alert.it/en and fill out the questionnaire.</description>
-        <instruction>I-00 Test message, no self-protection action needed. Fill out the questionnaire at https://forms.office.com/e/uxMiQpPD2P</instruction>
-        <web>https://www.it-alert.it</web>
+        <instruction>I-00 Test message, no self-protection action needed. Fill out the questionnaire.</instruction>
+        <web>https://www.it-alert.it/en</web>
         <parameter>
             <valueName>it-alert-level</valueName>
             <value>1</value>

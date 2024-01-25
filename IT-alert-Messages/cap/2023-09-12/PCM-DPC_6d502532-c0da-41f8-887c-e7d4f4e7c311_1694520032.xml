@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+    <identifier>6d502532-c0da-41f8-887c-e7d4f4e7c311</identifier>
+    <sender>PCM-DPC</sender>
+    <sent>2023-09-12T12:00:32+02:00</sent>
+    <status>Exercise</status>
+    <msgType>Alert</msgType>
+    <source>IT-alert</source>
+    <scope>Public</scope>
+    <code>CAP-IT:1.0</code>
+    <note>IT-alert test Campania 2023-09-12</note>
+    <info>
+        <language>it-IT</language>
+        <category>Other</category>
+        <event>IT-alert Test pubblico</event>
+        <responseType>None</responseType>
+        <urgency>Unknown</urgency>
+        <severity>Extreme</severity>
+        <certainty>Unknown</certainty>
+        <eventCode>
+            <valueName>it-alert-public-test</valueName>
+            <value>Campania 2023-09-12</value>
+        </eventCode>
+        <effective>2023-09-12T12:00:32+02:00</effective>
+        <onset>2023-09-12T12:00:32+02:00</onset>
+        <expires>2023-09-12T12:00:32+02:00</expires>
+        <senderName>Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile</senderName>
+        <headline>IT-alert test pubblico - regione Campania - 12/09/2023</headline>
+        <description>IT-alert test pubblico - regione Campania - 12/09/2023. Questo è un MESSAGGIO DI TEST del sistema di allarme pubblico italiano. Una volta operativo ti avviserà in caso di grave emergenza. Per informazioni vai sul sito www.it-alert.it e compila il questionario.</description>
+        <instruction>I-00 Messaggio di test, nessuna azione di autoprotezione necessaria. Compila il questionario.</instruction>
+        <web>https://www.it-alert.gov.it/it</web>
+        <parameter>
+            <valueName>it-alert-level</valueName>
+            <value>1</value>
+        </parameter>
+        <resource>
+            <resourceDesc>questionnaire</resourceDesc>
+            <mimeType>text/uri-list</mimeType>
+            <uri>https://forms.office.com/e/b2G9MQENxf</uri>
+        </resource>
+        <area>
+            <areaDesc>Regione Campania</areaDesc>
+            <geocode>
+                <valueName>Regione Campania</valueName>
+                <value>2000018</value>
+            </geocode>
+        </area>
+        <area>
+            <areaDesc>Regione Campania</areaDesc>
+            <polygon></polygon>
+        </area>
+    </info>
+    <info>
+        <language>en-US</language>
+        <category>Other</category>
+        <event>IT-alert Public test</event>
+        <responseType>None</responseType>
+        <urgency>Unknown</urgency>
+        <severity>Extreme</severity>
+        <certainty>Unknown</certainty>
+        <eventCode>
+            <valueName>it-alert-public-test</valueName>
+            <value>Campania 2023-09-12</value>
+        </eventCode>
+        <effective>2023-09-12T12:00:32+02:00</effective>
+        <onset>2023-09-12T12:00:32+02:00</onset>
+        <expires>2023-09-12T12:00:32+02:00</expires>
+        <senderName>Presidency of the Council of Ministers - Civil Protection Department</senderName>
+        <headline>IT-alert public test - Campania region - 2023-09-12</headline>
+        <description>IT-alert public test - Campania region - 2023-09-12. This is a TEST MESSAGE from the Italian public alert system. It will alert you in the event of a major emergency once operational. To get more information go to www.it-alert.it/en and fill out the questionnaire.</description>
+        <instruction>I-00 Test message, no self-protection action needed. Fill out the questionnaire.</instruction>
+        <web>https://www.it-alert.it</web>
+        <parameter>
+            <valueName>it-alert-level</valueName>
+            <value>1</value>
+        </parameter>
+        <resource>
+            <resourceDesc>questionnaire</resourceDesc>
+            <mimeType>text/uri-list</mimeType>
+            <uri>https://forms.office.com/e/b2G9MQENxf</uri>
+        </resource>
+        <area>
+            <areaDesc>Campania region</areaDesc>
+            <geocode>
+                <valueName>Campania region</valueName>
+                <value>2000018</value>
+            </geocode>
+        </area>
+        <area>
+            <areaDesc>Campania region</areaDesc>
+            <polygon></polygon>
+        </area>
+    </info>
+</alert>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><alert xmlns="urn:oasis:names:tc:emergency:cap:1.2"><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><alert xmlns="urn:oasis:names:tc:emergency:cap:1.2"><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
 <ds:SignedInfo>
 <ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
 <ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
@@ -8,15 +8,15 @@
 <ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
 </ds:Transforms>
 <ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
-<ds:DigestValue>RU9vVKiyb0+3lNNiddoLJbhpQH7AyeHDKJB5URHE8AU=</ds:DigestValue>
+<ds:DigestValue>0Va/XJd03mgDHS+vABI5Jk8ZM9poyR6F9Poj5DC6F2w=</ds:DigestValue>
 </ds:Reference>
 </ds:SignedInfo>
 <ds:SignatureValue>
-K09iG55npX5yAYVQsYBjWOlaQcta4i5JrW5FnCRFlAET8eHjsDuMvGbwb+j0yX9xDLmIUeTnFvx0
-Jvin1mqquVXmLrkgAhFRYhZWKb+OQ0NJosr0EvMplm/jkDHIIb2Gj4E9sRPYXCm23FRTgRajCv4W
-PYGwIhzrUJYOf+omuaxWuiWDGJGoBgiK9ZgYbUBZEdMYS8SFIlNKSDuRPgL8rnrTimjgX/VC3Eee
-wlK+vsJfehwMaOgGDsYuEa/1qz+tD8Kx9AtPgopvlRfbTeEAY0tHpLajZYbZDtxRyXnCuop99jhP
-QCUTepewOT9pkGA2xOKXWV+t6zHDva2MtA7ZoA==
+pJdvkcmgvX3Dje+IIoPPi+WLK85B7+obmvzUgcOSC5o+9nLad1W7IX4Inig4B08PHakFoga/Fq2x
+RfPT71vKsfYJ7xQhEv3VCFzhdW5+mT2oVcxWA6eWZCyK4sMlYK4tq9haIj7RdEP6kHlW+pSDlMcK
+9k0BPoVy4BZ8eD856JdT1I8JKJevFRObmSbIUW/rex+xunuUmu/Fd1O1i+zqb3c8NPnkA6s2EX+E
+NcNzzQV9p9cGihhVGYaOUZp1zhL3K9iIGww9tRlZhWL/SOcFHwOzvLQ0ndjHk4btgYW+lXWBQmku
+sgg174AXi6ErJTGuCHzMmFPG7WjrnQBg7Q8N5w==
 </ds:SignatureValue>
 <ds:KeyInfo>
 <ds:KeyValue>
@@ -84,8 +84,8 @@ r61ksjyHXW/Y3Lndrv7PP62Rs859KIy36Qs9SLp8F+9XnZPyo79oEw==
         <senderName>Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile</senderName>
         <headline>IT-alert test pubblico - regione Sardegna - 30/06/2023</headline>
         <description>IT-alert test pubblico - regione Sardegna - 30/06/2023. Questo è un MESSAGGIO DI TEST del sistema di allarme pubblico italiano. Una volta operativo ti avviserà in caso di grave emergenza. Per informazioni vai sul sito www.it-alert.it e compila il questionario.</description>
-        <instruction>I-00 Messaggio di test, nessuna azione di autoprotezione necessaria. Compila il questionario all'indirizzo https://forms.office.com/e/uxMiQpPD2P</instruction>
-        <web>https://www.it-alert.gov.it/en</web>
+        <instruction>I-00 Messaggio di test, nessuna azione di autoprotezione necessaria. Compila il questionario.</instruction>
+        <web>https://www.it-alert.gov.it/it</web>
         <parameter>
             <valueName>it-alert-level</valueName>
             <value>1</value>
@@ -295,8 +295,8 @@ r61ksjyHXW/Y3Lndrv7PP62Rs859KIy36Qs9SLp8F+9XnZPyo79oEw==
         <senderName>Presidency of the Council of Ministers - Civil Protection Department</senderName>
         <headline>IT-alert public test - Sardinia region - 2023-06-30</headline>
         <description>IT-alert public test - Sardinia region - 30/06/2023. This is a TEST MESSAGE from the Italian public alert system. It will alert you in the event of a major emergency once operational. To get more information go to www.it-alert.it/en and fill out the questionnaire.</description>
-        <instruction>I-00 Test message, no self-protection action needed. Fill out the questionnaire at https://forms.office.com/e/uxMiQpPD2P</instruction>
-        <web>https://www.it-alert.it</web>
+        <instruction>I-00 Test message, no self-protection action needed. Fill out the questionnaire.</instruction>
+        <web>https://www.it-alert.it/en</web>
         <parameter>
             <valueName>it-alert-level</valueName>
             <value>1</value>

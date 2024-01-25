@@ -10,12 +10,8 @@
       "msgType" : "Alert",
       "source" : "IT-alert",
       "scope" : "Public",
-      "restriction" : null,
-      "addresses" : null,
       "code" : [ "CAP-IT:1.0" ],
       "note" : "IT-alert test Sicilia 2023-07-05",
-      "references" : null,
-      "incidents" : null,
       "language" : "it-IT",
       "category" : [ "Other" ],
       "event" : "IT-alert Test pubblico",
@@ -23,10 +19,9 @@
       "urgency" : "Unknown",
       "severity" : "Extreme",
       "certainty" : "Unknown",
-      "audience" : null,
       "eventCode" : [ {
         "valueName" : "it-alert-public-test",
-        "value" : "Sicilia 2023-06-30"
+        "value" : "Sicilia 2023-07-05"
       } ],
       "effective" : "2023-07-05T10:00:33.000+00:00",
       "onset" : "2023-07-05T10:00:33.000+00:00",
@@ -34,21 +29,21 @@
       "senderName" : "Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile",
       "headline" : "IT-alert test pubblico - regione Sicilia - 05/07/2023",
       "description" : "IT-alert test pubblico - regione Sicilia - 05/07/2023. Questo è un MESSAGGIO DI TEST del sistema di allarme pubblico italiano. Una volta operativo ti avviserà in caso di grave emergenza. Per informazioni vai sul sito www.it-alert.it e compila il questionario.",
-      "instruction" : "I-00 Messaggio di test, nessuna azione di autoprotezione necessaria. Compila il questionario all'indirizzo https://forms.office.com/e/uxMiQpPD2P",
-      "web" : "https://www.it-alert.gov.it/en",
-      "contact" : null,
+      "instruction" : "I-00 Messaggio di test, nessuna azione di autoprotezione necessaria. Compila il questionario.",
+      "web" : "https://www.it-alert.gov.it/it",
       "parameter" : [ {
         "valueName" : "it-alert-level",
         "value" : "1"
       } ],
       "resource" : [ {
+        "resourceDesc" : "cap",
+        "mimeType" : "text/xml",
+        "uri" : "https://raw.githubusercontent.com/pcm-dpc/IT-alert-Hub/master/IT-alert-Messages/cap/2023-07-05/PCM-DPC_097f30ad-4b3d-46ee-832e-645ef8270afb_1688551233.xml"
+      },{
         "resourceDesc" : "questionnaire",
         "mimeType" : "text/uri-list",
         "uri" : "https://forms.office.com/e/uxMiQpPD2P"
-      } ],
-      "areaDesc" : 0.0,
-      "altitude" : 0.0,
-      "ceiling" : 0.0
+      } ]
     },
     "geometry" : {
       "type" : "MultiPolygon",
@@ -64,12 +59,8 @@
       "msgType" : "Alert",
       "source" : "IT-alert",
       "scope" : "Public",
-      "restriction" : null,
-      "addresses" : null,
       "code" : [ "CAP-IT:1.0" ],
       "note" : "IT-alert test Sicilia 2023-07-05",
-      "references" : null,
-      "incidents" : null,
       "language" : "en-US",
       "category" : [ "Other" ],
       "event" : "IT-alert Public test",
@@ -77,10 +68,9 @@
       "urgency" : "Unknown",
       "severity" : "Extreme",
       "certainty" : "Unknown",
-      "audience" : null,
       "eventCode" : [ {
         "valueName" : "it-alert-public-test",
-        "value" : "Sicily 2023-06-30"
+        "value" : "Sicily 2023-07-05"
       } ],
       "effective" : "2023-06-30T10:00:15.000+00:00",
       "onset" : "2023-06-30T10:00:15.000+00:00",
@@ -88,21 +78,21 @@
       "senderName" : "Presidency of the Council of Ministers - Civil Protection Department",
       "headline" : "IT-alert public test - Sicily region - 2023-07-05",
       "description" : "IT-alert public test - Sicily region - 2023-07-05. This is a TEST MESSAGE from the Italian public alert system. It will alert you in the event of a major emergency once operational. To get more information go to www.it-alert.it/en and fill out the questionnaire.",
-      "instruction" : "I-00 Test message, no self-protection action needed. Fill out the questionnaire at https://forms.office.com/e/uxMiQpPD2P",
-      "web" : "https://www.it-alert.it",
-      "contact" : null,
+      "instruction" : "I-00 Test message, no self-protection action needed. Fill out the questionnaire.",
+      "web" : "https://www.it-alert.it/en",
       "parameter" : [ {
         "valueName" : "it-alert-level",
         "value" : "1"
       } ],
       "resource" : [ {
+        "resourceDesc" : "cap",
+        "mimeType" : "text/xml",
+        "uri" : "https://raw.githubusercontent.com/pcm-dpc/IT-alert-Hub/master/IT-alert-Messages/cap/2023-07-05/PCM-DPC_097f30ad-4b3d-46ee-832e-645ef8270afb_1688551233.xml"
+      },{
         "resourceDesc" : "questionnaire",
         "mimeType" : "text/uri-list",
         "uri" : "https://forms.office.com/e/uxMiQpPD2P"
-      } ],
-      "areaDesc" : 0.0,
-      "altitude" : 0.0,
-      "ceiling" : 0.0
+      } ]
     },
     "geometry" : {
       "type" : "MultiPolygon",

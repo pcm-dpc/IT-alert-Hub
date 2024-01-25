@@ -30,12 +30,16 @@
       "headline" : "IT-alert test pubblico - regione Toscana - 28/06/2023",
       "description" : "IT-alert test pubblico - regione Toscana - 28/06/2023. Questo è un MESSAGGIO DI TEST del sistema di allarme pubblico italiano. Una volta operativo ti avviserà in caso di grave emergenza. Per informazioni vai sul sito www.it-alert.it e compila il questionario.",
       "instruction" : "I-00 Messaggio di test, nessuna azione di autoprotezione necessaria. Compila il questionario.",
-      "web" : "https://www.it-alert.it",
+      "web" : "https://www.it-alert.it/it",
       "parameter" : [ {
         "valueName" : "it-alert-level",
         "value" : "1"
       } ],
       "resource" : [ {
+        "resourceDesc" : "cap",
+        "mimeType" : "text/xml",
+        "uri" : "https://raw.githubusercontent.com/pcm-dpc/IT-alert-Hub/master/IT-alert-Messages/cap/2023-06-28/PCM-DPC_df6cd996-97d1-48ff-a8c7-3fce647e109f_1687946595.xml"
+      },{
         "resourceDesc" : "questionnaire",
         "mimeType" : "text/uri-list",
         "uri" : "https://forms.office.com/e/uxMiQpPD2P"
@@ -75,12 +79,16 @@
       "headline" : "IT-alert public test - Tuscany region - 2023-06-28",
       "description" : "IT-alert public test - Tuscany region - 2023-06-28. This is a TEST MESSAGE from the Italian public alert system. It will alert you in the event of a major emergency once operational. To get more information go to www.it-alert.it and fill out the questionnaire.",
       "instruction" : "I-00 Test message, no self-protection action needed. Fill out the questionnaire.",
-      "web" : "https://www.it-alert.it",
+      "web" : "https://www.it-alert.it/en",
       "parameter" : [ {
         "valueName" : "it-alert-level",
         "value" : "1"
       } ],
       "resource" : [ {
+        "resourceDesc" : "cap",
+        "mimeType" : "text/xml",
+        "uri" : "https://raw.githubusercontent.com/pcm-dpc/IT-alert-Hub/master/IT-alert-Messages/cap/2023-06-28/PCM-DPC_df6cd996-97d1-48ff-a8c7-3fce647e109f_1687946595.xml"
+      },{
         "resourceDesc" : "questionnaire",
         "mimeType" : "text/uri-list",
         "uri" : "https://forms.office.com/e/uxMiQpPD2P"

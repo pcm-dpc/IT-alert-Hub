@@ -1,0 +1,78 @@
+<?xml version = '1.0' encoding = 'UTF-8' standalone = 'yes'?>
+<feed xmlns = 'http://www.w3.org/2005/Atom' xmlns:cap = 'urn:oasis:names:tc:emergency:cap:1.2'>
+    <id>https://hub.it-alert.it/#</id>
+    <generator>IT-alert Atom Generator</generator>
+    <updated>2023-07-07T12:00:36+02:00</updated>
+    <author>
+        <name>PCM-DPC - Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile</name>
+    </author>
+    <title>IT-alert</title>
+    <link href="https://hub.it-alert.it/atom/"/>
+    <entry xml:lang="it-IT">
+        <id>https://hub.it-alert.it/atom/e0b8bd7c-1901-4b91-a606-5e51e890c85f/it</id>
+        <updated>2023-07-07T12:00:36+02:00</updated>
+        <published>2023-07-07T12:00:36+02:00</published>
+        <author>
+            <name>PCM-DPC - Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile</name>
+        </author>
+        <title>IT-alert test pubblico - regione Calabria - 07/07/2023</title>
+        <link href="https://hub.it-alert.it/atom/e0b8bd7c-1901-4b91-a606-5e51e890c85f/it"/>
+        <summary>IT-alert test pubblico - regione Calabria - 07/07/2023. Questo è un MESSAGGIO DI TEST del sistema di allarme pubblico italiano. Una volta operativo ti avviserà in caso di grave emergenza. Per informazioni vai sul sito www.it-alert.it e compila il questionario.</summary>
+        <cap:event>IT-alert Test pubblico</cap:event>
+        <cap:effective>2023-07-07T12:00:36+02:00</cap:effective>
+        <cap:expires>2023-07-07T12:00:36+02:00</cap:expires>
+        <cap:status>Exercise</cap:status>
+        <cap:msgType>Alert</cap:msgType>
+        <cap:category>Other</cap:category>
+        <cap:urgency>Unknown</cap:urgency>
+        <cap:severity>Extreme</cap:severity>
+        <cap:certainty>Unknown</cap:certainty>
+        <cap:areaDesc>Regione Calabria</cap:areaDesc>
+        <cap:geocode>
+            <valueName>Regione Calabria</valueName>
+            <value>2000018</value>
+        </cap:geocode>
+        ...
+        <cap:resource>
+            <valueName>cap</valueName>
+            <value>https://raw.githubusercontent.com/pcm-dpc/IT-alert-Hub/master/IT-alert-Messages/cap/2023-07-07/PCM-DPC_e0b8bd7c-1901-4b91-a606-5e51e890c85f_1688724036.xml</value>
+        </cap:resource>
+        <cap:parameter>
+            <valueName>it-alert-level</valueName>
+            <value>1</value>
+        </cap:parameter>
+    </entry>
+    <entry xml:lang="en-US">
+        <id>https://hub.it-alert.it/atom/097f30ad-4b3d-46ee-832e-645ef8270afb/en</id>
+        <updated>2023-07-07T12:00:36+02:00</updated>
+        <published>2023-07-07T12:00:36+02:00</published>
+        <author>
+            <name>PCM-DPC - Presidency of the Council of Ministers - Civil Protection Department</name>
+        </author>
+        <title>IT-alert public test - Calabria region - 2023-07-07</title>
+        <link href="https://hub.it-alert.it/atom/097f30ad-4b3d-46ee-832e-645ef8270afb/en"/>
+        <summary>IT-alert public test - Calabria region - 2023-07-07. This is a TEST MESSAGE from the Italian public alert system. It will alert you in the event of a major emergency once operational. To get more information go to www.it-alert.it and fill out the questionnaire.</summary>
+        <cap:event>IT-alert Test pubblico</cap:event>
+        <cap:effective>2023-07-07T12:00:36+02:00</cap:effective>
+        <cap:expires>2023-07-07T12:00:36+02:00</cap:expires>
+        <cap:status>Exercise</cap:status>
+        <cap:msgType>Alert</cap:msgType>
+        <cap:category>Other</cap:category>
+        <cap:urgency>Unknown</cap:urgency>
+        <cap:severity>Extreme</cap:severity>
+        <cap:certainty>Unknown</cap:certainty>
+        <cap:areaDesc>Sardinia region</cap:areaDesc>
+        <cap:geocode>
+            <valueName>Calabria region</valueName>
+            <value>2000018</value>
+        ...
+        <cap:resource>
+            <valueName>cap</valueName>
+            <value>https://raw.githubusercontent.com/pcm-dpc/IT-alert-Hub/master/IT-alert-Messages/cap/2023-07-07/PCM-DPC_e0b8bd7c-1901-4b91-a606-5e51e890c85f_1688724036.xml</value>
+        </cap:resource>
+        <cap:parameter>
+            <valueName>it-alert-level</valueName>
+            <value>1</value>
+        </cap:parameter>
+    </entry>
+</feed>
